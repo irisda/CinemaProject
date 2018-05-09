@@ -1,0 +1,592 @@
+{
+  "crawler": {
+    "id": "at_at-daskino",
+    "crawl-e": {
+      "version": "0.1.1"
+    },
+    "is_booking_link_capable": false
+  },
+  "cinema": {
+    "name": "DAS KINO",
+    "address": "Giselakai 11, A-5020 Salzburg",
+    "website": "http://www.daskino.at/",
+    "telephone": "0662-87 31 00"
+  },
+  "showtimes": [
+    {
+      "movie_title": "3 TAGE IN QUIBERON",
+      "start_at": "2018-05-09T16:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MADAME AURORA UND DER DUFT VON FRüHLING",
+      "start_at": "2018-05-09T18:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "TRANSIT",
+      "start_at": "2018-05-09T20:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FIUME PIAVE",
+      "start_at": "2018-05-09T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ZAUBERER",
+      "start_at": "2018-05-09T17:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "LADY BIRD",
+      "start_at": "2018-05-09T19:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "HERRLICHE ZEITEN",
+      "start_at": "2018-05-09T21:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ZEIT FüR UTOPIEN",
+      "start_at": "2018-05-10T14:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "3 TAGE IN QUIBERON",
+      "start_at": "2018-05-10T16:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MADAME AURORA UND DER DUFT VON FRüHLING",
+      "start_at": "2018-05-10T18:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "TRANSIT",
+      "start_at": "2018-05-10T20:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "PAPA MOLL UND DIE ENTFüHRUNG DES FLIEGENDEN HUNDES",
+      "start_at": "2018-05-10T14:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FIUME PIAVE",
+      "start_at": "2018-05-10T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ZAUBERER",
+      "start_at": "2018-05-10T17:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "LADY BIRD",
+      "start_at": "2018-05-10T19:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "HERRLICHE ZEITEN",
+      "start_at": "2018-05-10T21:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ZEIT FüR UTOPIEN",
+      "start_at": "2018-05-11T14:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MADAME AURORA UND DER DUFT VON FRüHLING",
+      "start_at": "2018-05-11T16:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "HERRLICHE ZEITEN",
+      "start_at": "2018-05-11T18:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-11T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "PAPA MOLL UND DIE ENTFüHRUNG DES FLIEGENDEN HUNDES",
+      "start_at": "2018-05-11T14:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "LADY BIRD",
+      "start_at": "2018-05-11T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-11T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "TRANSIT",
+      "start_at": "2018-05-11T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "THELMA",
+      "start_at": "2018-05-11T22:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MADAME AURORA UND DER DUFT VON FRüHLING",
+      "start_at": "2018-05-12T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "HERRLICHE ZEITEN",
+      "start_at": "2018-05-12T16:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-12T19:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "SöRF FILM FEST",
+      "start_at": "2018-05-12T21:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "PAPA MOLL UND DIE ENTFüHRUNG DES FLIEGENDEN HUNDES",
+      "start_at": "2018-05-12T14:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "LADY BIRD",
+      "start_at": "2018-05-12T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-12T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "TRANSIT",
+      "start_at": "2018-05-12T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "THELMA",
+      "start_at": "2018-05-12T22:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "3 TAGE IN QUIBERON",
+      "start_at": "2018-05-13T10:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "DER BUCHLADEN DER FLORENCE GREEN",
+      "start_at": "2018-05-13T12:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ZEIT FüR UTOPIEN",
+      "start_at": "2018-05-13T14:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MADAME AURORA UND DER DUFT VON FRüHLING",
+      "start_at": "2018-05-13T16:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "HERRLICHE ZEITEN",
+      "start_at": "2018-05-13T18:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-13T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "DALIDA",
+      "start_at": "2018-05-13T10:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "SENORA TERESAS AUFBRUCH IN EIN NEUES LEBEN",
+      "start_at": "2018-05-13T12:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "PAPA MOLL UND DIE ENTFüHRUNG DES FLIEGENDEN HUNDES",
+      "start_at": "2018-05-13T14:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "LADY BIRD",
+      "start_at": "2018-05-13T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-13T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "TRANSIT",
+      "start_at": "2018-05-13T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "THELMA",
+      "start_at": "2018-05-13T22:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MADAME AURORA UND DER DUFT VON FRüHLING",
+      "start_at": "2018-05-14T16:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "HERRLICHE ZEITEN",
+      "start_at": "2018-05-14T18:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-14T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "LADY BIRD",
+      "start_at": "2018-05-14T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-14T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "TRANSIT",
+      "start_at": "2018-05-14T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "THELMA",
+      "start_at": "2018-05-14T22:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MADAME AURORA UND DER DUFT VON FRüHLING",
+      "start_at": "2018-05-15T16:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "HERRLICHE ZEITEN",
+      "start_at": "2018-05-15T18:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-15T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "LADY BIRD",
+      "start_at": "2018-05-15T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-15T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "TRANSIT",
+      "start_at": "2018-05-15T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "THELMA",
+      "start_at": "2018-05-15T22:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "VOLLGAS GEN WESTEN",
+      "start_at": "2018-05-15T19:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MADAME AURORA UND DER DUFT VON FRüHLING",
+      "start_at": "2018-05-16T16:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "HERRLICHE ZEITEN",
+      "start_at": "2018-05-16T18:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-16T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "LADY BIRD",
+      "start_at": "2018-05-16T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-16T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "TRANSIT",
+      "start_at": "2018-05-16T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "THELMA",
+      "start_at": "2018-05-16T22:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "KASPERL UND STINKI-STINKTIER",
+      "start_at": "2018-05-17T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MADAME AURORA UND DER DUFT VON FRüHLING",
+      "start_at": "2018-05-17T16:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "HERRLICHE ZEITEN",
+      "start_at": "2018-05-17T18:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-17T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "LADY BIRD",
+      "start_at": "2018-05-17T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-17T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "WORAN ICH MICH ERINNERE",
+      "start_at": "2018-05-17T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "THELMA",
+      "start_at": "2018-05-17T22:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "TRANSIT",
+      "start_at": "2018-05-18T14:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-18T16:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "DER BUCHLADEN DER FLORENCE GREEN",
+      "start_at": "2018-05-18T18:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-18T20:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "DIE KLEINE HEXE",
+      "start_at": "2018-05-18T14:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "LADY BIRD",
+      "start_at": "2018-05-18T16:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MADAME AURORA UND DER DUFT VON FRüHLING",
+      "start_at": "2018-05-18T18:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "HERRLICHE ZEITEN",
+      "start_at": "2018-05-18T20:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "TRANSIT",
+      "start_at": "2018-05-19T14:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-19T16:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "DER BUCHLADEN DER FLORENCE GREEN",
+      "start_at": "2018-05-19T18:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-19T20:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "DIE KLEINE HEXE",
+      "start_at": "2018-05-19T14:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "LADY BIRD",
+      "start_at": "2018-05-19T16:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MADAME AURORA UND DER DUFT VON FRüHLING",
+      "start_at": "2018-05-19T18:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "HERRLICHE ZEITEN",
+      "start_at": "2018-05-19T20:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "TRANSIT",
+      "start_at": "2018-05-20T14:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-20T16:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "DER BUCHLADEN DER FLORENCE GREEN",
+      "start_at": "2018-05-20T18:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-20T20:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "DIE KLEINE HEXE",
+      "start_at": "2018-05-20T14:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "LADY BIRD",
+      "start_at": "2018-05-20T16:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MADAME AURORA UND DER DUFT VON FRüHLING",
+      "start_at": "2018-05-20T18:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "HERRLICHE ZEITEN",
+      "start_at": "2018-05-20T20:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "TRANSIT",
+      "start_at": "2018-05-21T14:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-21T16:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "DER BUCHLADEN DER FLORENCE GREEN",
+      "start_at": "2018-05-21T18:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-21T20:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "DIE KLEINE HEXE",
+      "start_at": "2018-05-21T14:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "LADY BIRD",
+      "start_at": "2018-05-21T16:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MADAME AURORA UND DER DUFT VON FRüHLING",
+      "start_at": "2018-05-21T18:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "HERRLICHE ZEITEN",
+      "start_at": "2018-05-21T20:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "TRANSIT",
+      "start_at": "2018-05-22T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "DER BUCHLADEN DER FLORENCE GREEN",
+      "start_at": "2018-05-22T18:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ISLE OF DOGS",
+      "start_at": "2018-05-22T20:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "LADY BIRD",
+      "start_at": "2018-05-22T16:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MADAME AURORA UND DER DUFT VON FRüHLING",
+      "start_at": "2018-05-22T18:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "HERRLICHE ZEITEN",
+      "start_at": "2018-05-22T20:45:00",
+      "is_3d": false
+    }
+  ]
+}

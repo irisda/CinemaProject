@@ -1,0 +1,22 @@
+{
+  "name": "cinemaproject",
+  "version": "1.0.0",
+  "description": "Simple cinema crawler using nodejs framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irisda/CinemaProject.git"
+  },
+  "dependencies": {
+    "crawl-e/v0.1.1": "http://www.bitbucket.org/cinepass/crawl-e.git#v0.1.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irisda/CinemaProject/issues"
+  },
+  "homepage": "https://github.com/irisda/CinemaProject#readme"
+}
